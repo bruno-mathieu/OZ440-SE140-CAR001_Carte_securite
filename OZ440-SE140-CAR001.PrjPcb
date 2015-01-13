@@ -179,7 +179,13 @@ GenerateClassCluster=0
 Description=V1.0
 AllowFabrication=0
 ParameterCount=0
-VariationCount=0
+VariationCount=6
+Variation1=Designator=R16|UniqueId=\HTVIFPCO\JNSYWLVT|Kind=1|AlternatePart= 
+Variation2=Designator=R17|UniqueId=\HTVIFPCO\GSBULHAV|Kind=1|AlternatePart= 
+Variation3=Designator=R22|UniqueId=\OMISMJHR\JNSYWLVT|Kind=1|AlternatePart= 
+Variation4=Designator=R23|UniqueId=\OMISMJHR\GSBULHAV|Kind=1|AlternatePart= 
+Variation5=Designator=R28|UniqueId=\WLRVKVFA\JNSYWLVT|Kind=1|AlternatePart= 
+Variation6=Designator=R29|UniqueId=\WLRVKVFA\GSBULHAV|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -262,6 +268,10 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for OZ440-SE140-CAR001\Gerber\OZ440-SE140-CAR001.RUL
 DItemRevisionGUID=
 
+[GeneratedDocument21]
+DocumentPath=Project Outputs for OZ440-SE140-CAR001\Pick Place\Pick Place for OZ440-SE140-CAR001(V1_0).txt
+DItemRevisionGUID=
+
 [Parameter1]
 Name=AssyDocumentNumber
 Value=OZ440-SE140-ASS001
@@ -276,7 +286,7 @@ Value=OZ440-SE140-CAR001
 
 [Parameter4]
 Name=BoardRevision
-Value=1V
+Value=2V
 
 [Parameter5]
 Name=DesignEngineer
